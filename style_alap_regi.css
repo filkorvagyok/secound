@@ -1,0 +1,82 @@
+﻿body {
+background-image : url('bg.jpg');
+background-color : #333333;
+/*background-repeat : no-repeat;
+background-position : top center;*/
+margin-top : 0px;
+margin-right : auto;
+margin-bottom : 0px;
+margin-left : auto;
+width : 90%;
+max-width : 780px;
+color : #eed2e0;
+}
+
+h1 {
+font-family : Arial, Garamond, Helvetica;
+color : #ff0b85;
+font-size : 30px;
+text-align : center;
+}
+
+h2 {
+font-family : Arial, Garamond, Helvetica;
+color : #ffcc00;
+font-size : 23px;
+text-align : left;
+}
+
+p {
+padding-right : 10px;
+padding-left : 10px;
+font-family : Arial, Garamond, Helvetica;
+color : #ffffff;
+font-size : 16px;
+text-align : justify;
+}
+
+p.def_bordo{
+color : #990000; 
+}
+
+p.feladat_sarga{
+color : #f5d440;  
+}
+
+ol, ul{
+color : #ffffff;	
+}
+
+img.kozepre {
+display : block;
+margin-left : auto;
+margin-right : auto; 
+}
+
+img.balra{
+float : left;	
+margin-right : 20px;	
+}
+	
+table, th, td
+{
+border : 1px solid #d6006b;
+vertical-align : bottom;
+background-color : #FFFFFF;
+color : #000000;
+text-align :center;
+padding : 0px;
+border-spacing : 0px;
+}
+
+a {
+color : #d6006b;
+}
+
+a:visited {
+color : #d6006b;
+}
+a:active {
+color : #d6006b; 
+}
+
